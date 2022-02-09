@@ -1,0 +1,20 @@
+  this.state = {
+         data: 
+         [
+            {
+               "id":1,
+               "name":"Enzo",
+               "age":"21"
+            },
+            {
+               "id":2,
+               "name":"Miguel",
+               "age":"26"
+            },
+            {
+               "id":3,
+               "name":"Lorenz",
+               "age":"69"
+            }
+         ]
+      }
